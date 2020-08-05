@@ -1,0 +1,2 @@
+# MRBayesTitanic
+这是一个使用MR基于朴素贝叶斯算法实现的titanic生存预测的模型流程
